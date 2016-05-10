@@ -81,11 +81,11 @@ p{
     }
  .col-tb-6   
 	{   
-		width:48%;
+		width:47%;
 		
 	}
 .col-tb2-12
-	{   width:98%;
+	{   width:96%;
 	
 	}
 }
@@ -103,13 +103,13 @@ p{
 div {
 	
 	height: 200px;
-    margin-right: 0px;
+    margin-right: 5px;
     margin-left: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     margin-top: 0px;
     padding: 5px;
     border-collapse: collapse;
-}
+    }
 
 
 </style>
