@@ -4,7 +4,7 @@ box-sizing: border-box;
 font-family: Helvetica;
 }
 body{
-	background-color: lightblue;
+	background-color: #ffccff;
 }
 
 #header-nav{
@@ -23,6 +23,10 @@ body{
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
+ }
+ h1{
+ 	color: #aaaaff;
+ 	font-weight: bold;
  }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -75,23 +79,32 @@ body{
 {
 	margin: 0px, auto, 0px;
 }
-#Chicken-sec, #Beef-sec, #Sushi-sec
+#Chicken-sec h3, #Beef-sec h3, #Sushi-sec h3
 {
-	
+	Color: red;
 }
 #Chicken{
-	background-color: gray;
+	background-color: #ffcccc;
 	width: 90%;
+	padding: 5px;
+	text-align: justify;
+	color: blue;
 }
 
 #Beef{
-	background-color: gray;
+	background-color: skyblue;
 	width: 90%;
+	padding: 5px;
+	text-align: justify;
+	color: blue;
 }
 
 #Sushi{
-	background-color: gray;
+	background-color: #ffff99;
 	width: 90%;
+	padding: 5px;
+	text-align: justify;
+	color: blue;
 	}
 
 #Sushi p {
